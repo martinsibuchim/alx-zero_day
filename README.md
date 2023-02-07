@@ -1,1 +1,1 @@
-just a README file updated
+README file just updated
